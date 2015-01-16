@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindDemoApp", "Northwi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryLayer", "RepositoryLayer\RepositoryLayer.csproj", "{1EDD5CBB-2A45-4F08-A1A8-35C03729CC65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{019D12A7-B0FC-4830-8AFC-DE3919132E68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{8CEA7B53-B778-4E95-9576-E30B48E3A64B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,10 +24,10 @@ Global
 		{1EDD5CBB-2A45-4F08-A1A8-35C03729CC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EDD5CBB-2A45-4F08-A1A8-35C03729CC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EDD5CBB-2A45-4F08-A1A8-35C03729CC65}.Release|Any CPU.Build.0 = Release|Any CPU
-		{019D12A7-B0FC-4830-8AFC-DE3919132E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{019D12A7-B0FC-4830-8AFC-DE3919132E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{019D12A7-B0FC-4830-8AFC-DE3919132E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{019D12A7-B0FC-4830-8AFC-DE3919132E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CEA7B53-B778-4E95-9576-E30B48E3A64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CEA7B53-B778-4E95-9576-E30B48E3A64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CEA7B53-B778-4E95-9576-E30B48E3A64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CEA7B53-B778-4E95-9576-E30B48E3A64B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

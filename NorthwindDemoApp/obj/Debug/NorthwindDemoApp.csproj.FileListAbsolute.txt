@@ -66,3 +66,6 @@ E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Microsoft.Web.Infrastructure.xml
 E:\MyGit\SomeCodeSample\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.csprojResolveAssemblyReference.cache
 E:\MyGit\SomeCodeSample\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.dll
 E:\MyGit\SomeCodeSample\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.pdb
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Newtonsoft.Json.xml
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\RepositoryLayer.dll
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\RepositoryLayer.pdb
