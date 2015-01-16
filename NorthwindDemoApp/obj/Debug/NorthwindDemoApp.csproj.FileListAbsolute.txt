@@ -53,3 +53,16 @@ C:\code\NorthwindDemoApp\NorthwindDemoApp\bin\Microsoft.Owin.Security.MicrosoftA
 C:\code\NorthwindDemoApp\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.csprojResolveAssemblyReference.cache
 C:\code\NorthwindDemoApp\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.dll
 C:\code\NorthwindDemoApp\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.pdb
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\NorthwindDemoApp.dll.config
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\NorthwindDemoApp.dll
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\NorthwindDemoApp.pdb
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Castle.Core.dll
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Castle.Windsor.dll
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Microsoft.Web.Infrastructure.dll
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Newtonsoft.Json.dll
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Castle.Core.xml
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Castle.Windsor.xml
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\bin\Microsoft.Web.Infrastructure.xml
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.csprojResolveAssemblyReference.cache
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.dll
+E:\MyGit\SomeCodeSample\NorthwindDemoApp\obj\Debug\NorthwindDemoApp.pdb
