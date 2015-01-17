@@ -1,0 +1,9 @@
+E:\MyGit\SomeCodeSample\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+E:\MyGit\SomeCodeSample\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+E:\MyGit\SomeCodeSample\RepositoryLayer\obj\Debug\RepositoryLayer.csprojResolveAssemblyReference.cache
+E:\MyGit\SomeCodeSample\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+E:\MyGit\SomeCodeSample\RepositoryLayer\obj\Debug\RepositoryLayer.pdb
+E:\MyGit\SomeCodeSample\RepositoryLayer\bin\Debug\DataAccessLayer.dll
+E:\MyGit\SomeCodeSample\RepositoryLayer\bin\Debug\EntityFramework.dll
+E:\MyGit\SomeCodeSample\RepositoryLayer\bin\Debug\DataAccessLayer.pdb
+E:\MyGit\SomeCodeSample\RepositoryLayer\bin\Debug\EntityFramework.xml

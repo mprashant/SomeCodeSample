@@ -1,0 +1,20 @@
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\My Code\Study\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\MyGit\SomeCodeSample\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\MyGit\SomeCodeSample\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\MyGit\SomeCodeSample\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\MyGit\SomeCodeSample\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\MyGit\SomeCodeSample\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyGit\SomeCodeSample\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\MyGit\SomeCodeSample\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyGit\SomeCodeSample\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\MyGit\SomeCodeSample\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\MyGit\SomeCodeSample\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
